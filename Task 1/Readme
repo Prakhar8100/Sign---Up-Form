@@ -28,7 +28,7 @@ Replace with actual image path if hosting the screenshot.
 
 📋 How to Use
 - Clone the repository:
-git clone 
+git clone https://github.com/Prakhar8100/Sign---Up-Form.git
 - Open index.html in your browser.
 - Customize styles or form behavior as needed.
 ✅ Future Enhancements
@@ -39,3 +39,4 @@ git clone
 This project is open-source and available under the MIT License.
 
 Want me to help you write the HTML and CSS too, or add validation logic?
+
